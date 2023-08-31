@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Lafont</h1>
 <h3 align="center">Junior Java Developer Currently undergoing training at BeCode, I am actively seeking an internship opportunity as a Junior Java Developer from the end of October to the end of January. I am a highly motivated and skilled individual with a passion for crafting efficient and robust software solutions. With a strong foundation in object-oriented programming and a keen eye for detail, I am committed to delivering high-quality code to meet and exceed project requirements.</h3>
 
-- 🌱 I’m currently learning **Java, Spring, AWS**
+- 🌱 I’m currently learning **Java, Spring, AWS, Python**
 
 - 📫 How to reach me **Brunolb.lafont@gmail.com**
 
