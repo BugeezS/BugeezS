@@ -22,16 +22,37 @@ In my spare time, I explore the world of graphics and game engines using **SFML*
 
 ---
 
-## 🚀 Tech I'm Working With
+### 🛠️ Tech Stack
 
-| Language/Platform | Tools & Frameworks |
-|-------------------|--------------------|
-| Rust 🦀           | Actix, Tokio, Cargo |
-| TypeScript        | Angular, Tailwind, RxJS |
-| Cloud 🛠️          | AWS Lambda, ECS, Amplify, Terraform |
-| Infra & DevOps    | Serverless Framework, Docker, CloudWatch |
-| C++ 🎮            | SFML, SDL2, CMake |
-| Databases         | PostgreSQL, MariaDB, DynamoDB |
+#### 🧾 Languages
+- **Rust** – systems programming, CLI tools, backend services  
+- **TypeScript** – modern frontend architecture, typed logic  
+- **C++** – performance-critical programming and game dev  
+- **SQL** – relational queries, schema design (PostgreSQL, MariaDB)
+
+#### 🖥️ Frontend
+- **Angular** – scalable SPA development with signals & reactive forms  
+- **Tailwind CSS** – utility-first styling  
+- **RxJS** – reactive programming  
+- **HTML/CSS** – semantic, accessible UI foundations
+
+#### ☁️ Cloud & DevOps
+- **AWS** – Lambda, ECS, Amplify, DynamoDB, CloudWatch  
+- **Terraform** – infrastructure-as-code for modular cloud environments  
+- **Serverless Framework** – event-driven application deployment  
+- **Docker** – containerization for consistent environments
+
+#### 🔧 Backend & Systems
+- **Node.js** – API services, async workflows  
+- **Rust (Tokio, Actix)** – performant microservices & async IO  
+- **C++ (SFML, SDL2)** – low-level graphics and simulation
+
+#### ⚙️ Tooling & Workflow
+- **GitHub Actions** – CI/CD automation  
+- **VS Code / CLion** – development environments  
+- **Postman / Insomnia** – API design and testing  
+- **Amplify CLI / Admin UI** – full-stack cloud development
+
 
 ---
 
