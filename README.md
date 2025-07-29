@@ -1,113 +1,65 @@
+# 👋 Hey, I’m Bugeez
 
-<h1 align="center"><b>Hi , I'm Bruno Lafont </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a></p>
+**Software Engineer | Systems Explorer | Cloud Builder**
 
+Welcome to my slice of GitHub — where browser-based experiences meet backend precision and low-level curiosity meets high-level impact.
 
-<br>
+---
 
+## 🧠 What I Do
 
+🔧 **Build scalable, reactive applications**  
+I specialize in **Angular**, **AWS Amplify**, and **Serverless** architectures, crafting dynamic frontends and real-time systems that run at scale.
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+🧬 **Design resilient infrastructure**  
+With **Terraform**, **ECS**, and **Lambda**, I automate cloud deployments and build fault-tolerant backends that evolve with the product.
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+🦀 **Explore the power of Rust**  
+I’m currently working with **Rust** to write fast, safe, and expressive backend tools and CLI apps — with a strong focus on correctness and performance.
 
-<br>
+🎮 **Experiment with C++ and game development**  
+In my spare time, I explore the world of graphics and game engines using **SFML** and **SDL**, learning the art of memory, rendering, and interaction.
 
-- A passionate Full Stack Developper
-- I'm always learning new things 
-- Currently learning more about Kubernetes
-- Personal website (Work In Progress 🚧)
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🚀 Tech I'm Working With
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+| Language/Platform | Tools & Frameworks |
+|-------------------|--------------------|
+| Rust 🦀           | Actix, Tokio, Cargo |
+| TypeScript        | Angular, Tailwind, RxJS |
+| Cloud 🛠️          | AWS Lambda, ECS, Amplify, Terraform |
+| Infra & DevOps    | Serverless Framework, Docker, CloudWatch |
+| C++ 🎮            | SFML, SDL2, CMake |
+| Databases         | PostgreSQL, MariaDB, DynamoDB |
 
-<p align="center">
+---
 
-- **Languages**:
-    
-    ![JS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🔍 Current Focus
 
-<br>   
-    
-- **Front-End Development**:
+- 🧱 Building infrastructure-as-code pipelines using **Terraform** and **modular AWS architectures**
+- 🧪 Refining real-time data handling in **Angular** with signals and reactive forms
+- 🦀 Writing robust microservices and CLI tools in **Rust**
+- 📦 Improving domain-driven design across my projects
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
 
-<br>
+## 🧭 Philosophy
 
-- **Cloud Hosting**:
+> **“Build for today. Optimize for tomorrow.”**  
+> Code should be clear to humans, fair to machines, and prepared for change.
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-    
-<br>
+---
 
-- **Softwares and Tools**:
+## 📬 Let’s Connect
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+- 🐙 GitHub Discussions, Issues, and PRs — always open to thoughtful collaboration
+- 💼 LinkedIn (upon request)
+- ✉️ Or reach out through any of my projects’ contact channels
 
-<br>
+Thanks for stopping by — and feel free to explore my repos, leave a star ⭐, or open a convo!
 
-- **Extras**:
+---
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-<br>
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=BugeezS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="(https://www.linkedin.com/in/bruno-lafont/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Bruno-Lafont%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+**Bugeez**  
+_Software Engineer | Always Learning, Always Building_
